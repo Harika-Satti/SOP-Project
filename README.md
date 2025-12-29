@@ -15,3 +15,9 @@
 - Required libraries (install via pip):
   ```bash
   pip install streamlit google
+### Tech Stack
+- Python 3.10
+- Streamlit (Web interface)
+- SQLite (Database for SOPs)
+- Google AI / NLP (Optional for intelligent responses)
+
